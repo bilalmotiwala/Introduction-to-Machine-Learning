@@ -1,0 +1,134 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total Attack
+35,Clefairy,Fairy,,323,70,45,48,60,65,35,1,False,105
+36,Clefable,Fairy,,483,95,70,73,95,90,60,1,False,165
+63,Abra,Psychic,,310,25,20,15,105,55,90,1,False,125
+64,Kadabra,Psychic,,400,40,35,30,120,70,105,1,False,155
+65,Alakazam,Psychic,,500,55,50,45,135,95,120,1,False,185
+65,AlakazamMega Alakazam,Psychic,,590,55,50,65,175,95,150,1,False,225
+96,Drowzee,Psychic,,328,60,48,45,43,90,42,1,False,91
+97,Hypno,Psychic,,483,85,73,70,73,115,67,1,False,146
+122,Mr. Mime,Psychic,Fairy,460,40,45,65,100,120,90,1,False,145
+147,Dratini,Dragon,,300,41,64,45,50,50,50,1,False,114
+148,Dragonair,Dragon,,420,61,84,65,70,70,70,1,False,154
+149,Dragonite,Dragon,Flying,600,91,134,95,100,100,80,1,False,234
+150,Mewtwo,Psychic,,680,106,110,90,154,90,130,1,True,264
+150,MewtwoMega Mewtwo X,Psychic,Fighting,780,106,190,100,154,100,130,1,True,344
+150,MewtwoMega Mewtwo Y,Psychic,,780,106,150,70,194,120,140,1,True,344
+151,Mew,Psychic,,600,100,100,100,100,100,100,1,False,200
+173,Cleffa,Fairy,,218,50,25,28,45,55,15,2,False,70
+175,Togepi,Fairy,,245,35,20,65,40,65,20,2,False,60
+176,Togetic,Fairy,Flying,405,55,40,85,80,105,40,2,False,120
+177,Natu,Psychic,Flying,320,40,50,45,70,45,70,2,False,120
+178,Xatu,Psychic,Flying,470,65,75,70,95,70,95,2,False,170
+196,Espeon,Psychic,,525,65,65,60,130,95,110,2,False,195
+201,Unown,Psychic,,336,48,72,48,72,48,48,2,False,144
+202,Wobbuffet,Psychic,,405,190,33,58,33,58,33,2,False,66
+208,Steelix,Steel,Ground,510,75,85,200,55,65,30,2,False,140
+208,SteelixMega Steelix,Steel,Ground,610,75,125,230,55,95,30,2,False,180
+209,Snubbull,Fairy,,300,60,80,50,40,40,30,2,False,120
+210,Granbull,Fairy,,450,90,120,75,60,60,45,2,False,180
+227,Skarmory,Steel,Flying,465,65,80,140,40,70,70,2,False,120
+249,Lugia,Psychic,Flying,680,106,90,130,90,154,110,2,True,180
+251,Celebi,Psychic,Grass,600,100,100,100,100,100,100,2,False,200
+280,Ralts,Psychic,Fairy,198,28,25,25,45,35,40,3,False,70
+281,Kirlia,Psychic,Fairy,278,38,35,35,65,55,50,3,False,100
+282,Gardevoir,Psychic,Fairy,518,68,65,65,125,115,80,3,False,190
+282,GardevoirMega Gardevoir,Psychic,Fairy,618,68,85,65,165,135,100,3,False,250
+303,Mawile,Steel,Fairy,380,50,85,85,55,55,50,3,False,140
+303,MawileMega Mawile,Steel,Fairy,480,50,105,125,55,95,50,3,False,160
+304,Aron,Steel,Rock,330,50,70,100,40,40,30,3,False,110
+305,Lairon,Steel,Rock,430,60,90,140,50,50,40,3,False,140
+306,Aggron,Steel,Rock,530,70,110,180,60,60,50,3,False,170
+306,AggronMega Aggron,Steel,,630,70,140,230,60,80,50,3,False,200
+325,Spoink,Psychic,,330,60,25,35,70,80,60,3,False,95
+326,Grumpig,Psychic,,470,80,45,65,90,110,80,3,False,135
+334,Altaria,Dragon,Flying,490,75,70,90,70,105,80,3,False,140
+334,AltariaMega Altaria,Dragon,Fairy,590,75,110,110,110,105,80,3,False,220
+358,Chimecho,Psychic,,425,65,50,70,95,80,65,3,False,145
+360,Wynaut,Psychic,,260,95,23,48,23,48,23,3,False,46
+371,Bagon,Dragon,,300,45,75,60,40,30,50,3,False,115
+372,Shelgon,Dragon,,420,65,95,100,60,50,50,3,False,155
+373,Salamence,Dragon,Flying,600,95,135,80,110,80,100,3,False,245
+373,SalamenceMega Salamence,Dragon,Flying,700,95,145,130,120,90,120,3,False,265
+374,Beldum,Steel,Psychic,300,40,55,80,35,60,30,3,False,90
+375,Metang,Steel,Psychic,420,60,75,100,55,80,50,3,False,130
+376,Metagross,Steel,Psychic,600,80,135,130,95,90,70,3,False,230
+376,MetagrossMega Metagross,Steel,Psychic,700,80,145,150,105,110,110,3,False,250
+379,Registeel,Steel,,580,80,75,150,75,150,50,3,True,150
+380,Latias,Dragon,Psychic,600,80,80,90,110,130,110,3,True,190
+380,LatiasMega Latias,Dragon,Psychic,700,80,100,120,140,150,110,3,True,240
+381,Latios,Dragon,Psychic,600,80,90,80,130,110,110,3,True,220
+381,LatiosMega Latios,Dragon,Psychic,700,80,130,100,160,120,110,3,True,290
+384,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,True,300
+384,RayquazaMega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,3,True,360
+385,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,True,200
+386,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,True,300
+386,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,True,360
+386,DeoxysDefense Forme,Psychic,,600,50,70,160,70,160,90,3,True,140
+386,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,True,190
+433,Chingling,Psychic,,285,45,30,50,65,50,45,4,False,95
+436,Bronzor,Steel,Psychic,300,57,24,86,24,86,23,4,False,48
+437,Bronzong,Steel,Psychic,500,67,89,116,79,116,33,4,False,168
+439,Mime Jr.,Psychic,Fairy,310,20,25,45,70,90,60,4,False,95
+443,Gible,Dragon,Ground,300,58,70,45,40,45,42,4,False,110
+444,Gabite,Dragon,Ground,410,68,90,65,50,55,82,4,False,140
+445,Garchomp,Dragon,Ground,600,108,130,95,80,85,102,4,False,210
+445,GarchompMega Garchomp,Dragon,Ground,700,108,170,115,120,95,92,4,False,290
+468,Togekiss,Fairy,Flying,545,85,50,95,120,115,80,4,False,170
+475,Gallade,Psychic,Fighting,518,68,125,65,65,115,80,4,False,190
+475,GalladeMega Gallade,Psychic,Fighting,618,68,165,95,65,115,110,4,False,230
+480,Uxie,Psychic,,580,75,75,130,75,130,95,4,True,150
+481,Mesprit,Psychic,,580,80,105,105,105,105,80,4,True,210
+482,Azelf,Psychic,,580,75,125,70,125,70,115,4,True,250
+483,Dialga,Steel,Dragon,680,100,120,120,150,100,90,4,True,270
+488,Cresselia,Psychic,,600,120,70,120,75,130,85,4,False,145
+494,Victini,Psychic,Fire,600,100,100,100,100,100,100,5,True,200
+517,Munna,Psychic,,292,76,25,45,67,55,24,5,False,92
+518,Musharna,Psychic,,487,116,55,85,107,95,29,5,False,162
+527,Woobat,Psychic,Flying,313,55,45,43,55,43,72,5,False,100
+528,Swoobat,Psychic,Flying,425,67,57,55,77,55,114,5,False,134
+561,Sigilyph,Psychic,Flying,490,72,58,80,103,80,97,5,False,161
+574,Gothita,Psychic,,290,45,30,50,55,65,45,5,False,85
+575,Gothorita,Psychic,,390,60,45,70,75,85,55,5,False,120
+576,Gothitelle,Psychic,,490,70,55,95,95,110,65,5,False,150
+577,Solosis,Psychic,,290,45,30,40,105,50,20,5,False,135
+578,Duosion,Psychic,,370,65,40,50,125,60,30,5,False,165
+579,Reuniclus,Psychic,,490,110,65,75,125,85,30,5,False,190
+599,Klink,Steel,,300,40,55,70,45,60,30,5,False,100
+600,Klang,Steel,,440,60,80,95,70,85,50,5,False,150
+601,Klinklang,Steel,,520,60,100,115,70,85,90,5,False,170
+605,Elgyem,Psychic,,335,55,55,55,85,55,30,5,False,140
+606,Beheeyem,Psychic,,485,75,75,75,125,95,40,5,False,200
+610,Axew,Dragon,,320,46,87,60,30,40,57,5,False,117
+611,Fraxure,Dragon,,410,66,117,70,40,50,67,5,False,157
+612,Haxorus,Dragon,,540,76,147,90,60,70,97,5,False,207
+621,Druddigon,Dragon,,485,77,120,90,60,90,48,5,False,180
+638,Cobalion,Steel,Fighting,580,91,90,129,90,72,108,5,True,180
+643,Reshiram,Dragon,Fire,680,100,120,100,150,120,90,5,True,270
+644,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,True,270
+646,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,5,True,260
+646,KyuremBlack Kyurem,Dragon,Ice,700,125,170,100,120,90,95,5,True,290
+646,KyuremWhite Kyurem,Dragon,Ice,700,125,120,90,170,100,95,5,True,290
+669,Flabébé,Fairy,,303,44,38,39,61,79,42,6,False,99
+670,Floette,Fairy,,371,54,45,47,75,98,52,6,False,120
+671,Florges,Fairy,,552,78,65,68,112,154,75,6,False,177
+677,Espurr,Psychic,,355,62,48,54,63,60,68,6,False,111
+678,MeowsticMale,Psychic,,466,74,48,76,83,81,104,6,False,131
+678,MeowsticFemale,Psychic,,466,74,48,76,83,81,104,6,False,131
+679,Honedge,Steel,Ghost,325,45,80,100,35,37,28,6,False,115
+680,Doublade,Steel,Ghost,448,59,110,150,45,49,35,6,False,155
+681,AegislashBlade Forme,Steel,Ghost,520,60,150,50,150,50,60,6,False,300
+681,AegislashShield Forme,Steel,Ghost,520,60,50,150,50,150,60,6,False,100
+682,Spritzee,Fairy,,341,78,52,60,63,65,23,6,False,115
+683,Aromatisse,Fairy,,462,101,72,72,99,89,29,6,False,171
+684,Swirlix,Fairy,,341,62,48,66,59,57,49,6,False,107
+685,Slurpuff,Fairy,,480,82,80,86,85,75,72,6,False,165
+700,Sylveon,Fairy,,525,95,65,65,110,130,60,6,False,175
+704,Goomy,Dragon,,300,45,50,35,55,75,40,6,False,105
+705,Sliggoo,Dragon,,452,68,75,53,83,113,60,6,False,158
+706,Goodra,Dragon,,600,90,100,70,110,150,80,6,False,210
+707,Klefki,Steel,Fairy,470,57,80,91,80,87,75,6,False,160
+716,Xerneas,Fairy,,680,126,131,95,131,98,99,6,True,262
+718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6,True,181
+720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True,260
+720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,True,330
